@@ -1,0 +1,18 @@
+.chat-box {
+  height: 300px;
+  overflow-y: auto;
+}
+
+.local {
+  background-color: #d1f7d1;
+  text-align: right;
+  padding: 5px;
+  margin: 5px;
+}
+
+.remote {
+  background-color: #f2f2f2;
+  text-align: left;
+  padding: 5px;
+  margin: 5px;
+}
